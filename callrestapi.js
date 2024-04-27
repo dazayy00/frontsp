@@ -1,4 +1,4 @@
-var url = "http://localhost:8080/api/users";
+var url = "https://swift-kiln-419222.ue.r.appspot.com/api/users";
 
 function postUser() {
 	console.log(url);
